@@ -1,0 +1,1 @@
+Target to easy use for recording user action on Windows GUI application and replay the action by saved script file.
